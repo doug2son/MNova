@@ -61,6 +61,10 @@ Then put the number on the end of `https://www.google.com/maps?cid=` and open th
 - Does a link to Google Maps from a press release do anything for ranking at all? Look for real before and after tests, not just claims.
 - Is it worth the cost of a paid distribution service compared with getting one real mention from a local news site?
 
+## Follow up
+
+The same source goes on to suggest keyword links and tiered releases. Those parts got a trash verdict. See [the second press release note](2026-11-second-release-and-tiers.md).
+
 ## Favorite quote
 
 > "There's more than one way to link to your Google Business Profile."
