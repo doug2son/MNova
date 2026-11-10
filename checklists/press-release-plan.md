@@ -45,4 +45,4 @@ Leave at least **2 to 3 months** between releases for the same business, so each
 
 | Business | Intro release | Last release | Next possible news |
 | --- | --- | --- | --- |
-| | | | |
+| Advanced Medical Weight Loss and Wellness Center | 30 year anniversary, drafted Nov 2026 ([draft](../clients/advanced-medical-weight-loss/2026-11-press-release-30-years.md)) | None yet | Medical director or new service, early 2027 at the soonest |
