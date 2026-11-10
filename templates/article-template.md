@@ -6,6 +6,12 @@
 - **Date I read it:** 
 - **Tags:** 
 
+## Verdict
+
+**Keep / Test first / Trash** (see `how-i-judge-advice.md`)
+
+Why: 
+
 ## In a nutshell
 
 A few sentences on what the article is about.

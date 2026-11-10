@@ -2,7 +2,7 @@
 
 A running list of every article I've saved notes on. Newest at the top.
 
-| Date added | Article | Topic | Notes |
+| Date added | Article | Topic | Verdict |
 | --- | --- | --- | --- |
 | | *(nothing yet)* | | |
 

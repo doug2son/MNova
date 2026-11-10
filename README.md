@@ -10,6 +10,7 @@ This is my collection of articles, ideas, and reminders about Google Business Pr
 | [`ideas/`](ideas/) | My own thoughts and things to try. These can be rough. |
 | [`checklists/`](checklists/) | Step by step lists for creating a profile and for keeping it up to date. |
 | [`templates/`](templates/) | Blank starting points so new notes all look the same. |
+| [`how-i-judge-advice.md`](how-i-judge-advice.md) | How I decide whether advice is worth keeping, worth testing, or should be trashed. |
 
 ## How I add something new
 
