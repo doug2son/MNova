@@ -21,6 +21,8 @@ Things to do on a regular basis so the profile stays accurate and active.
 - [ ] Reread the description and update it if needed
 - [ ] Check that the name, address, and phone still match the website and other listings
 - [ ] Look at what nearby competitors are doing
+- [ ] Ask ChatGPT, Claude, and Gemini about the business and note what they say and which sites they cite
+- [ ] Recheck that the host hasn't started blocking AI search crawlers
 
 ## Before holidays and special events
 

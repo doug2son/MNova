@@ -38,3 +38,10 @@ A starting list to work through when setting up a new profile. I'll keep adding 
 - [ ] Embed the Google map on the contact or location page (Maps, Share, Embed a map, Copy HTML)
 - [ ] Find and save the profile's CID number and full Maps place link
 - [ ] Add it to the maintenance routine below
+
+## Beyond Google (search engines and AI tools)
+
+- [ ] Claim the business on Bing Places for Business (ChatGPT search leans on Bing)
+- [ ] Add the website to Bing Webmaster Tools, submit the sitemap, and turn on IndexNow
+- [ ] Claim the business on Apple Business Connect (Apple Maps and Siri)
+- [ ] Check robots.txt and the host or Cloudflare settings so AI search crawlers aren't blocked ([notes](../articles/2026-11-after-release-ai-search.md))
