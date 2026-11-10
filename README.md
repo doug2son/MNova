@@ -22,5 +22,6 @@ This is my collection of articles, ideas, and reminders about Google Business Pr
 
 - [Creating a profile checklist](checklists/creating-a-profile.md)
 - [Maintaining a profile checklist](checklists/maintaining-a-profile.md)
+- [Checking a press release provider](checklists/vetting-a-press-release-provider.md)
 - [Article index](articles/README.md)
 - [Ideas list](ideas/ideas.md)

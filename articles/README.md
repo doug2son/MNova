@@ -4,6 +4,7 @@ A running list of every article I've saved notes on. Newest at the top.
 
 | Date added | Article | Topic | Verdict |
 | --- | --- | --- | --- |
+| Nov 2026 | [What press releases won't do, and a second provider](2026-11-limits-and-second-provider.md) | Ranking, Website, Policy | Mixed |
 | Nov 2026 | [After the release: getting found by AI search](2026-11-after-release-ai-search.md) | Website, Ranking, Setup | Keep (mostly) |
 | Nov 2026 | [The second press release, and link tiers](2026-11-second-release-and-tiers.md) | Ranking, Website, Policy | Trash (mostly) |
 | Nov 2026 | [Linking to a GBP in press releases](2026-11-press-release-gbp-links.md) | Website, Ranking | Test first |

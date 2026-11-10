@@ -24,3 +24,4 @@ Every article or tip gets one of three verdicts before it goes into my checklist
 | Keyword link text in press releases ("brand plus keyword") | Google's spam rules name it as a link scheme. ([notes](articles/2026-11-second-release-and-tiers.md)) |
 | Tiered press releases (new releases linking to old ones) | A link scheme that Google mostly ignores or punishes. ([notes](articles/2026-11-second-release-and-tiers.md)) |
 | Press releases on a monthly schedule with no real news | Costly paid link building that adds risk without proof it helps. |
+| Buying from more press release providers to get more referring domains | It's buying links to boost rankings, which Google's rules don't allow, and many providers use the same outlets anyway. ([notes](articles/2026-11-limits-and-second-provider.md)) |
