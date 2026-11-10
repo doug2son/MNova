@@ -4,7 +4,7 @@ A running list of every article I've saved notes on. Newest at the top.
 
 | Date added | Article | Topic | Verdict |
 | --- | --- | --- | --- |
-| | *(nothing yet)* | | |
+| Nov 2026 | [Linking to a GBP in press releases](2026-11-press-release-gbp-links.md) | Website, Ranking | Test first |
 
 ## Topic tags I use
 

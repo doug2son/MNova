@@ -35,4 +35,6 @@ A starting list to work through when setting up a new profile. I'll keep adding 
 
 - [ ] Ask a few happy customers for reviews
 - [ ] Link to the profile from the website
+- [ ] Embed the Google map on the contact or location page (Maps, Share, Embed a map, Copy HTML)
+- [ ] Find and save the profile's CID number and full Maps place link
 - [ ] Add it to the maintenance routine below
