@@ -26,3 +26,4 @@ Every article or tip gets one of three verdicts before it goes into my checklist
 | Press releases on a monthly schedule with no real news | Costly paid link building that adds risk without proof it helps. |
 | Buying from more press release providers to get more referring domains | It's buying links to boost rankings, which Google's rules don't allow, and many providers use the same outlets anyway. ([notes](articles/2026-11-limits-and-second-provider.md)) |
 | Copying competitors' keyword anchor text | Over-optimized link text is a spam pattern. Use competitor anchors to learn what looks natural instead. ([notes](articles/2026-11-check-competitors-first.md)) |
+| Starting with branded releases, then mixing in keyword link text later | The keyword part is the same link spam pattern, just delayed. Keep every release branded. ([notes](articles/2026-11-first-release-branded.md)) |

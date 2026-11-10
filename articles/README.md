@@ -4,6 +4,7 @@ A running list of every article I've saved notes on. Newest at the top.
 
 | Date added | Article | Topic | Verdict |
 | --- | --- | --- | --- |
+| Nov 2026 | [The first release: keep it branded](2026-11-first-release-branded.md) | Ranking, Website, Policy | Test first |
 | Nov 2026 | [Check your competitors first](2026-11-check-competitors-first.md) | Ranking, Website | Keep (with adjustments) |
 | Nov 2026 | [What press releases won't do, and a second provider](2026-11-limits-and-second-provider.md) | Ranking, Website, Policy | Mixed |
 | Nov 2026 | [After the release: getting found by AI search](2026-11-after-release-ai-search.md) | Website, Ranking, Setup | Keep (mostly) |
