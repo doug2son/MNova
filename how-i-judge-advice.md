@@ -27,3 +27,5 @@ Every article or tip gets one of three verdicts before it goes into my checklist
 | Buying from more press release providers to get more referring domains | It's buying links to boost rankings, which Google's rules don't allow, and many providers use the same outlets anyway. ([notes](articles/2026-11-limits-and-second-provider.md)) |
 | Copying competitors' keyword anchor text | Over-optimized link text is a spam pattern. Use competitor anchors to learn what looks natural instead. ([notes](articles/2026-11-check-competitors-first.md)) |
 | Starting with branded releases, then mixing in keyword link text later | The keyword part is the same link spam pattern, just delayed. Keep every release branded. ([notes](articles/2026-11-first-release-branded.md)) |
+| "Thousands of press release placements look natural" | Thousands of copies of the same text on the same day is an easy pattern for Google to spot. ([notes](articles/2026-11-are-links-real-how-long.md)) |
+| "As seen on" for paid placements | Misleads customers and goes against advertising disclosure rules. |

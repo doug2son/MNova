@@ -26,5 +26,13 @@ Use this before paying for any press release service. Look at a few releases the
 
 - [ ] Can I see a full list of outlets from a recent release?
 - [ ] How many of those are real news sites and how many are reposts?
-- [ ] How long do placements stay up?
+- [ ] How long do placements stay up, and will they put that in writing?
+- [ ] Can I see placements from a year ago that are still live and still showing up in Google?
+- [ ] Are the links follow, nofollow, or sponsored? (Paid links should be nofollow or sponsored under Google's rules.)
+- [ ] Will they explain every tactic before I pay? (Holding things back until after purchase is a red flag.)
 - [ ] Do they promise rankings? (If yes, that's a red flag.)
+
+## After buying
+
+- [ ] Don't use "As seen on" logos for paid placements. Only use them for coverage the business earned.
+- [ ] If I mention paid placements anywhere, say they were paid.
