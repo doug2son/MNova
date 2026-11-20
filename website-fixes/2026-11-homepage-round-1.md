@@ -20,7 +20,7 @@ Checked against the live homepage on 2026-11-20. Every "Find" below appears on t
 
 ## Fix 1: Remove the wholesaling language
 
-This assumes every house is bought in your business name (your LLC) or by one of your associated partners, and that you never assign the contract to another investor. If that's ever not true, stop here and use the "disclose it" wording from our chat instead.
+This wording fits how you buy: in your business name (your LLC) or through one of your associated partners. On the rare deal that goes to someone else you know, tell the seller before they sign. That keeps the page true and protects your reviews.
 
 ### 1a. Hero image alt text
 
@@ -61,7 +61,7 @@ licensed real estate agents, salespeople, or brokers at affiliated or unaffiliat
 
 ### 1c. Say it plainly in the "Who you are actually dealing with" bio
 
-This puts the claim in the bio, where sellers can actually read it.
+This tells sellers who will be on the closing papers, in the bio where they can actually read it.
 
 **Find**
 ```html
@@ -70,7 +70,7 @@ This puts the claim in the bio, where sellers can actually read it.
 
 **Replace with**
 ```html
-<li style="margin-bottom:6px;">We close in our business name (our LLC) or in the name of one of our associated partners. We never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
+<li style="margin-bottom:6px;">We close in our business name (our LLC) or in the name of one of our associated partners.</li><li style="margin-bottom:6px;">Between us we have purchased
 ```
 
 ### 1d. Remove "the person who walks your property is the person who signs the check"
