@@ -70,7 +70,7 @@ This puts the claim in the bio, where sellers can actually read it.
 
 **Replace with**
 ```html
-<li style="margin-bottom:6px;">We close in the name of a company we partner with, and we never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
+<li style="margin-bottom:6px;">A company we partner with buys your house and closes in its own name. We never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
 ```
 
 ### 1d. Remove "the person who walks your property is the person who signs the check"
