@@ -365,7 +365,7 @@ with a fair offer within 24 to 48 hours of seeing the house and closing
 
 ## After you publish
 
-1. Clear the SiteGround cache (SiteGround Optimizer, then Purge cache).
+1. Clear caches in this order: Elementor first (Elementor, Tools, Clear Files & Data), then load the homepage once, then purge SiteGround last (SiteGround Optimizer, Purge cache). Purging SiteGround before Elementor finishes rebuilding can leave a broken copy cached, which is what made the review stars look broken on 2026-11-20.
 2. Look at the homepage on a phone and a computer. Check that the new trust boxes stack neatly on the phone.
 3. Paste the homepage into Google's Rich Results Test to make sure the schema still reads cleanly after the edits.
 4. In Search Console, use URL Inspection on the homepage and click "Request indexing."
