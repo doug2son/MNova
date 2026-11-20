@@ -11,6 +11,7 @@
 - **Where:** the play button in the "Get Your Fair Cash Offer" box (HTML widget a100006). It still loads only when clicked, so it doesn't slow the page.
 - **Video schema** (HTML widget d227b66): new description matching the page wording, new thumbnail and file, upload date 2026-11-20, duration PT58S.
 - The old video on `cash4houses.s3...` is no longer used by the homepage. It was not deleted.
+- **YouTube:** https://youtu.be/Cfv6lBtAciA (uploaded 2026-11-20). Added to the video schema as `embedUrl` and `url` so Google connects the website video with the YouTube copy.
 - No "AI video" label was added under the play button. Add one any time if you want it.
 - Backup of the page from just before this change: [`backups/2026-11-20-before-video/`](backups/2026-11-20-before-video/).
 
