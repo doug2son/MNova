@@ -20,7 +20,7 @@ Checked against the live homepage on 2026-11-20. Every "Find" below appears on t
 
 ## Fix 1: Remove the wholesaling language
 
-This assumes you buy houses yourselves and don't assign contracts to other investors. If that's ever not true, stop here and use the "disclose it" wording from our chat instead.
+This assumes every house is bought by you or a company you partner with, and that you never assign the contract to another investor. If that's ever not true, stop here and use the "disclose it" wording from our chat instead.
 
 ### 1a. Hero image alt text
 
@@ -51,12 +51,12 @@ licensed real estate agents, salespeople, or brokers at affiliated or unaffiliat
 
 **Replace with**
 ```html
-<p>Largo Home Buyers buys houses directly from homeowners. We buy through a company we own, so your closing papers may show that company's name instead of "Largo Home Buyers." We are the buyer, not a real estate agent, and we do not represent you in the sale. You are always welcome to have your own agent or attorney review our offer before you sign.</p>
+<p>Largo Home Buyers buys houses directly from homeowners. We buy through a company we partner with, so your closing papers may show that company's name instead of "Largo Home Buyers." We are not real estate agents, and we do not represent you in the sale. You are always welcome to have your own agent or attorney review our offer before you sign.</p>
 ```
 
 **Only if one of you holds a Florida real estate license**, add this sentence to the end of that paragraph, with the right name filled in:
 ```html
-[Name] holds a Florida real estate license and buys for our own company, not as your agent.
+[Name] holds a Florida real estate license and buys for a company we partner with, not as your agent.
 ```
 
 ### 1c. Say it plainly in the "Who you are actually dealing with" bio
@@ -70,7 +70,7 @@ This puts the claim in the bio, where sellers can actually read it.
 
 **Replace with**
 ```html
-<li style="margin-bottom:6px;">We are the buyer. We close in our own company's name, and we never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
+<li style="margin-bottom:6px;">We close in the name of a company we partner with, and we never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
 ```
 
 ### 1d. Remove "the person who walks your property is the person who signs the check"
@@ -160,10 +160,9 @@ Doug and Matt live and invest in Pinellas County, answer the phone themselves, a
 Doug, Matt and our partners invest in Pinellas County, answer the phone themselves, and have helped
 ```
 
-**Two things only you can check**
+**One thing only you can check**
 
 - "Between us we have purchased more than 25 houses in Pinellas County since 2020." Make sure that number counts every partner's purchases, since "us" now means the whole group.
-- "We close in our own company's name" (from step 1c). If different partners buy through different companies, change it to "We close in the name of a company we own."
 
 **Left as is, on purpose:** "Meet Doug (left) and Matt (right)," "Call Doug and Matt" in the search description, and the schema listing Doug and Matt as founders. Those are all still true.
 
