@@ -20,7 +20,7 @@ Checked against the live homepage on 2026-11-20. Every "Find" below appears on t
 
 ## Fix 1: Remove the wholesaling language
 
-This assumes every house is bought by you or a company you partner with, and that you never assign the contract to another investor. If that's ever not true, stop here and use the "disclose it" wording from our chat instead.
+This assumes every house is bought in your business name (your LLC) or by one of your associated partners, and that you never assign the contract to another investor. If that's ever not true, stop here and use the "disclose it" wording from our chat instead.
 
 ### 1a. Hero image alt text
 
@@ -51,12 +51,12 @@ licensed real estate agents, salespeople, or brokers at affiliated or unaffiliat
 
 **Replace with**
 ```html
-<p>Largo Home Buyers buys houses directly from homeowners. We buy through a company we partner with, so your closing papers may show that company's name instead of "Largo Home Buyers." We are not real estate agents, and we do not represent you in the sale. You are always welcome to have your own agent or attorney review our offer before you sign.</p>
+<p>Largo Home Buyers buys houses directly from homeowners. We buy in our business name (our LLC) or through one of our associated partners, so your closing papers may show that name instead of "Largo Home Buyers." We are not real estate agents, and we do not represent you in the sale. You are always welcome to have your own agent or attorney review our offer before you sign.</p>
 ```
 
 **Only if one of you holds a Florida real estate license**, add this sentence to the end of that paragraph, with the right name filled in:
 ```html
-[Name] holds a Florida real estate license and buys for a company we partner with, not as your agent.
+[Name] holds a Florida real estate license and buys for our LLC or our associated partners, not as your agent.
 ```
 
 ### 1c. Say it plainly in the "Who you are actually dealing with" bio
@@ -70,7 +70,7 @@ This puts the claim in the bio, where sellers can actually read it.
 
 **Replace with**
 ```html
-<li style="margin-bottom:6px;">A company we partner with buys your house and closes in its own name. We never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
+<li style="margin-bottom:6px;">We close in our business name (our LLC) or in the name of one of our associated partners. We never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
 ```
 
 ### 1d. Remove "the person who walks your property is the person who signs the check"
