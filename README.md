@@ -10,6 +10,7 @@ This is my collection of articles, ideas, and reminders about Google Business Pr
 | [`ideas/`](ideas/) | My own thoughts and things to try. These can be rough. |
 | [`checklists/`](checklists/) | Step by step lists for creating a profile and for keeping it up to date. |
 | [`templates/`](templates/) | Blank starting points so new notes all look the same. |
+| [`website-fixes/`](website-fixes/) | Ready-to-paste changes for largohomebuyers.com, one file per round of fixes. |
 | [`how-i-judge-advice.md`](how-i-judge-advice.md) | How I decide whether advice is worth keeping, worth testing, or should be trashed. |
 
 ## How I add something new
@@ -27,3 +28,5 @@ This is my collection of articles, ideas, and reminders about Google Business Pr
 - [Checking a press release provider](checklists/vetting-a-press-release-provider.md)
 - [Article index](articles/README.md)
 - [Ideas list](ideas/ideas.md)
+- [Homepage fixes, round 1](website-fixes/2026-11-homepage-round-1.md)
+- [Homepage video update](website-fixes/2026-11-homepage-video.md)
