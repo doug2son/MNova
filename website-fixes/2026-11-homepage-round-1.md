@@ -2,6 +2,13 @@
 
 Checked against the live homepage on 2026-11-20. Every "Find" below appears on that page exactly as written, so you can search for it and paste the replacement.
 
+> **Status: applied to the live site on 2026-11-20.** Everything below is now live on the homepage (page 1959), and the disclaimer is updated in the site-wide footer (template 362) too. The meta description was updated through Rank Math, and the Elementor and SiteGround caches were cleared. Backups of both pages from just before the change are in [`backups/2026-11-20-before-round-1/`](backups/2026-11-20-before-round-1/). The steps below stay as a record, and as instructions in case anything ever needs redoing by hand.
+>
+> **What came up while applying it**
+> - The footer disclaimer was in two places: the homepage's own HTML box and the site-wide footer template that other pages use. Both were changed.
+> - The footer now says "We are not acting as your real estate agent" instead of "We are not real estate agents," so it stays true even if a partner holds a license.
+> - Rank Math's image settings change the capital letters in alt text ("Single-story florida home in largo") and add the "We buy houses for cash in largo 1, 2, 3..." titles to every image. Those titles are a Rank Math setting, not page content, so they're a next-round item.
+
 **What this round fixes**
 
 1. Removes the wholesaling language and replaces it with a clear, true statement. Also removes "the person who walks your property is the person who signs the check," which isn't always true, and softens the lines that say the business is only Doug and Matt.
@@ -11,7 +18,7 @@ Checked against the live homepage on 2026-11-20. Every "Find" below appears on t
 ## Before you start
 
 - **Most of the homepage is Elementor "HTML" widgets.** Open the homepage in Elementor, click the HTML widget, press Ctrl+F (Cmd+F on a Mac) inside the code box, and search for the "Find" text.
-- **The footer is site-wide.** The disclaimer lives in your footer template, so changing it once updates every page.
+- **The disclaimer is in two places.** The homepage has its own copy inside its last HTML box, and the site-wide footer template (Templates, Theme Builder, Footer) has another for every other page. Change both.
 - **The meta description is in your SEO plugin**, which looks like Rank Math. It's under the homepage's "Edit Snippet" area.
 - **Schema is in two places.** One block comes from Rank Math. The second one (LocalBusiness, services and FAQ) is custom code, probably in a code snippet or HTML widget. Where a change also appears in the schema, I've marked it **Also in schema**.
 - **Back up first.** Use "Save as Template" in Elementor, or copy the HTML widget's code into a text file.
@@ -51,7 +58,7 @@ licensed real estate agents, salespeople, or brokers at affiliated or unaffiliat
 
 **Replace with**
 ```html
-<p>Largo Home Buyers buys houses directly from homeowners. We buy in our business name (our LLC) or through one of our associated partners, so your closing papers may show that name instead of "Largo Home Buyers." We are not real estate agents, and we do not represent you in the sale. You are always welcome to have your own agent or attorney review our offer before you sign.</p>
+<p>Largo Home Buyers buys houses directly from homeowners. We buy in our business name (our LLC) or through one of our associated partners, so your closing papers may show that name instead of "Largo Home Buyers." We are not acting as your real estate agent, and we do not represent you in the sale. You are always welcome to have your own agent or attorney review our offer before you sign.</p>
 ```
 
 **Only if one of you holds a Florida real estate license**, add this sentence to the end of that paragraph, with the right name filled in:
@@ -368,7 +375,7 @@ with a fair offer within 24 to 48 hours of seeing the house and closing
 
 - The "Rated #1 citations and local investor service" badge. Remove it, or name who rated you.
 - "Open 24 hours, 7 days a week," while the page says "Come by" the office. Match it to your real hours and your Google Business Profile.
-- The keyword titles on every image ("We buy houses for cash in largo 69" and so on).
+- The keyword titles on every image ("We buy houses for cash in largo 69" and so on). These come from Rank Math's image SEO settings (the "add missing title" option), so the fix is in Rank Math, not on the page.
 - Typos: "Pascal county" (Pasco), "your facing," "a local guys running a company," "Trusted" mid-sentence, the empty H2, and the "~" marks around the locations heading.
 - The menu links to `/sell-my-house-fast-largo/` and `/we-buy-houses-in-seminole/`, which both redirect. Link to the final pages instead.
 - Rewriting the cliché lines in the top half ("curveball," "dignified path forward") in the voice of the timeline section.
