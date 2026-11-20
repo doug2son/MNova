@@ -4,7 +4,7 @@ Checked against the live homepage on 2026-11-20. Every "Find" below appears on t
 
 **What this round fixes**
 
-1. Removes the wholesaling language and replaces it with a clear, true statement. Also removes "the person who walks your property is the person who signs the check," which isn't always true.
+1. Removes the wholesaling language and replaces it with a clear, true statement. Also removes "the person who walks your property is the person who signs the check," which isn't always true, and softens the lines that say the business is only Doug and Matt.
 2. Replaces the press logo bar with real proof (title company, Sunbiz, Google reviews).
 3. Makes the "7 days" and offer-timing promises match everywhere on the page.
 
@@ -89,10 +89,83 @@ center and no acquisition rep who rotates out halfway through your file. When yo
  the check.</p>
 ```
 
-**After the change** it should read:
+**Replace it with this true version**, which works with several partners:
 ```html
-center and no acquisition rep who rotates out halfway through your file.</p>
+center and no acquisition rep who rotates out halfway through your file. Whichever of us walks your property, you are always dealing with an owner of the business.</p>
 ```
+
+If you'd rather drop the idea completely, end the paragraph at "your file.</p>" instead.
+
+### 1e. Doug and Matt lead, but there are more partners
+
+Several lines say the business is only Doug and Matt. These changes keep them as the faces of the business without claiming they're the only two owners.
+
+**Find**
+```text
+Largo Home Buyers is two people, Doug and Matt.
+```
+**Replace with**
+```text
+Largo Home Buyers is run by a small group of local partners, led by Doug and Matt.
+```
+
+**Find**
+```text
+We both live in Pinellas County and we answer our own phone.
+```
+**Replace with**
+```text
+Doug and Matt both live in Pinellas County, and we answer our own phone.
+```
+
+**Find** (near the top, under "Selling Your House Doesn't Have to Be Complicated")
+```text
+You work directly with Doug and Matt — real people who live and invest in this community.
+```
+**Replace with**
+```text
+You work directly with Doug, Matt and our partners, real people who live and invest in this community.
+```
+
+**FAQ: "Who buys houses for cash in Largo, FL?"** This also fixes the "a local guys running a company" typo.
+
+**Find**
+```text
+is a local guys running a company that buys
+```
+**Replace with**
+```text
+is a locally owned company that buys
+```
+
+**Also in schema.** This next one appears twice, in the visible FAQ and in the FAQ schema, so replace both.
+
+**Find**
+```text
+Doug and Matt, real people who live and invest here
+```
+**Replace with**
+```text
+a small group of local partners led by Doug and Matt, real people who live and invest here
+```
+
+**FAQ: "Why sell to Largo Home Buyers instead of a national company?"** **Also in schema**, so replace both.
+
+**Find**
+```text
+Doug and Matt live and invest in Pinellas County, answer the phone themselves, and have helped
+```
+**Replace with**
+```text
+Doug, Matt and our partners invest in Pinellas County, answer the phone themselves, and have helped
+```
+
+**Two things only you can check**
+
+- "Between us we have purchased more than 25 houses in Pinellas County since 2020." Make sure that number counts every partner's purchases, since "us" now means the whole group.
+- "We close in our own company's name" (from step 1c). If different partners buy through different companies, change it to "We close in the name of a company we own."
+
+**Left as is, on purpose:** "Meet Doug (left) and Matt (right)," "Call Doug and Matt" in the search description, and the schema listing Doug and Matt as founders. Those are all still true.
 
 ---
 
