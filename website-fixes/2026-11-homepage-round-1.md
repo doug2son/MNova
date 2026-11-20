@@ -4,7 +4,7 @@ Checked against the live homepage on 2026-11-20. Every "Find" below appears on t
 
 **What this round fixes**
 
-1. Removes the wholesaling language and replaces it with a clear, true statement.
+1. Removes the wholesaling language and replaces it with a clear, true statement. Also removes "the person who walks your property is the person who signs the check," which isn't always true.
 2. Replaces the press logo bar with real proof (title company, Sunbiz, Google reviews).
 3. Makes the "7 days" and offer-timing promises match everywhere on the page.
 
@@ -61,7 +61,7 @@ licensed real estate agents, salespeople, or brokers at affiliated or unaffiliat
 
 ### 1c. Say it plainly in the "Who you are actually dealing with" bio
 
-This puts the claim where sellers can read it, right next to "the person who walks your property is the person who signs the check."
+This puts the claim in the bio, where sellers can actually read it.
 
 **Find**
 ```html
@@ -71,6 +71,27 @@ This puts the claim where sellers can read it, right next to "the person who wal
 **Replace with**
 ```html
 <li style="margin-bottom:6px;">We are the buyer. We close in our own company's name, and we never put your house under contract just to sell that contract to someone else.</li><li style="margin-bottom:6px;">Between us we have purchased
+```
+
+### 1d. Remove "the person who walks your property is the person who signs the check"
+
+This isn't always true, so it comes out. It's the last sentence of the first paragraph in "Who you are actually dealing with," and it only appears there.
+
+In the code, the sentence is split across line breaks, so search for this short piece, which sits on one line:
+```text
+the person who walks your property
+```
+
+Then delete the whole sentence, from "When you sell your" through "the check." Leave the `</p>` right after it in place. In the live code it looks like this:
+```html
+center and no acquisition rep who rotates out halfway through your file. When you sell your
+ house fast in Largo through us, the person who walks your property is the person who signs
+ the check.</p>
+```
+
+**After the change** it should read:
+```html
+center and no acquisition rep who rotates out halfway through your file.</p>
 ```
 
 ---
