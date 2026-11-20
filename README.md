@@ -29,3 +29,4 @@ This is my collection of articles, ideas, and reminders about Google Business Pr
 - [Article index](articles/README.md)
 - [Ideas list](ideas/ideas.md)
 - [Homepage fixes, round 1](website-fixes/2026-11-homepage-round-1.md)
+- [Homepage video update](website-fixes/2026-11-homepage-video.md)
