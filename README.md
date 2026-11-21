@@ -1,6 +1,6 @@
 # Google Business Profile Notes
 
-This is my collection of articles, ideas, and reminders about Google Business Profiles (GBP). The goal is to keep everything I learn in one place so I can use it when I set up a new profile or keep an existing one in good shape.
+This is my collection of articles, ideas, and reminders about Google Business Profiles (GBP), and about the website SEO that goes with them. The goal is to keep everything I learn in one place so I can use it when I set up a new profile or keep an existing one in good shape.
 
 ## What's in here
 
@@ -9,6 +9,7 @@ This is my collection of articles, ideas, and reminders about Google Business Pr
 | [`articles/`](articles/) | Notes on articles I find. One file per article, with the link, a short summary, and the takeaways worth keeping. |
 | [`ideas/`](ideas/) | My own thoughts and things to try. These can be rough. |
 | [`checklists/`](checklists/) | Step by step lists for creating a profile and for keeping it up to date. |
+| [`audits/`](audits/) | Site audits: crawl data, findings, and the tools used to make them. |
 | [`templates/`](templates/) | Blank starting points so new notes all look the same. |
 | [`how-i-judge-advice.md`](how-i-judge-advice.md) | How I decide whether advice is worth keeping, worth testing, or should be trashed. |
 
@@ -25,5 +26,7 @@ This is my collection of articles, ideas, and reminders about Google Business Pr
 - [Press release plan](checklists/press-release-plan.md)
 - [Checking competitors](checklists/checking-competitors.md)
 - [Checking a press release provider](checklists/vetting-a-press-release-provider.md)
+- [Website SEO: the 30 moves](checklists/website-seo-30-moves.md)
+- [Largo Home Buyers crawl findings](audits/largohomebuyers/2026-11-crawl-findings.md)
 - [Article index](articles/README.md)
 - [Ideas list](ideas/ideas.md)
