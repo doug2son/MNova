@@ -42,7 +42,7 @@ Read this first. It carries what earlier sessions learned, so nothing has to be 
 
 | Business | Site | Status |
 | --- | --- | --- |
-| Largo Home Buyers | largohomebuyers.com | A real, live site. It has its own session ("Largo Home Buyers: SEO fixes"). Findings are in `audits/largohomebuyers/2026-11-crawl-findings.md`. The first batch of fixes is waiting for my go. Duplicate-page merges wait for Search Console data. |
+| Largo Home Buyers | largohomebuyers.com | A real, live site. Its SEO work happens in a desktop session, not in the cloud. Earlier crawl findings are in `audits/largohomebuyers/2026-11-crawl-findings.md` for reference. |
 
 Other businesses in my accounts: Alternative Realization Hypnotherapy, Lincoln Hypnosis Center, Advanced Medical Weight Loss and Wellness Center, RateM.
 
