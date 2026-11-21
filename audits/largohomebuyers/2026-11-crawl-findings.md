@@ -11,7 +11,7 @@ This covers the moves from the [30 moves checklist](../../checklists/website-seo
 
 | # | Fix | Why it matters | Time |
 | --- | --- | --- | --- |
-| 1 | Change the WordPress site title to just "Largo Home Buyers" | The site title is "Largo Home Buyers We Are Personal and Honest". It's added to 47 page titles, pushing 39 of them over 60 characters, and it's also the business name in the site's schema. It should match the Google Business Profile name exactly. | 15 min |
+| 1 | Change the WordPress site title to just "Largo Home Buyers" | The site title is "Largo Home Buyers We Are Personal and Honest". It's added to 47 page titles, pushing 39 of them over 60 characters. It's also the website name in the site's schema. The business name there is already correct ("Largo Home Buyers"), so this is mainly a title problem. | 15 min |
 | 2 | Fix 20 broken links and 61 links that go through old redirects | 81 links on 28 pages point at old or dead URLs. The 20 broken ones (7 dead URLs) are dead ends for visitors and for Google. | 1 to 2 hours |
 | 3 | Link to 6 pages that nothing on the site links to | Apartment buildings, tax liens, Harbor Bluffs, both Largo Central Park pages, and the Locations page can only be found through the sitemap. | 1 hour |
 | 4 | On the homepage, link Harbor Bluffs and Largo Central Park to our own pages, not homes.com | The homepage names both neighborhoods but sends visitors to homes.com neighborhood guides instead of our own pages for them. | 15 min |
@@ -74,7 +74,7 @@ The full list, with every source page and anchor text, is in [`data/links.csv`](
 | Problem | Pages | One-time fix |
 | --- | --- | --- |
 | Site title "Largo Home Buyers We Are Personal and Honest" added to every title | 47 | WordPress > Settings > General > Site Title: `Largo Home Buyers`. Move "We Are Personal and Honest" to the Tagline field. Then check Rank Math > Titles & Meta > Global Meta, where the title format should be `%title% %sep% %sitename%`. |
-| The same long name is the Organization name in the site's schema | All | Fixed by the step above. Then check Rank Math > Titles & Meta > Local SEO, where the name should be `Largo Home Buyers`, matching the GBP exactly. |
+| The same long name is the website name in the site's schema | All | Fixed by the step above. The business name in the schema is already `Largo Home Buyers`, which matches the GBP. Keep it that way. |
 | Category pages are indexable with no heading or description | 9 | Rank Math > Titles & Meta > Categories > Robots Meta: No Index. This removes them from the sitemap too. |
 | Main heading appears twice ("Title \| Title") | 8: mobile home guide, inherited Pinellas post, Spanish post, real estate investor post, apartment building, sell for cash in Largo post, sell my inherited house, Orange Lake Village post | The theme's page title and an Elementor heading are both H1. Hide the theme title on Elementor pages (Elementor > Site Settings > Layout > "Hide Title") or change the Elementor heading to H2. |
 | No main heading (H1) | companies-that-buy-houses-for-cash post, Blog, Privacy Policy | Add an H1 at the top of each. The post is the one that matters. |
