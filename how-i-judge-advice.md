@@ -29,3 +29,4 @@ Every article or tip gets one of three verdicts before it goes into my checklist
 | Starting with branded releases, then mixing in keyword link text later | The keyword part is the same link spam pattern, just delayed. Keep every release branded. ([notes](articles/2026-11-first-release-branded.md)) |
 | "Thousands of press release placements look natural" | Thousands of copies of the same text on the same day is an easy pattern for Google to spot. ([notes](articles/2026-11-are-links-real-how-long.md)) |
 | "As seen on" for paid placements | Misleads customers and goes against advertising disclosure rules. |
+| Up to 10% exact keyword anchor text in a link plan | The same keyword link text pattern Google calls a link scheme, just with a percentage on it. Use the business name or web address instead. ([notes](articles/2026-11-thirty-seo-moves.md)) |
